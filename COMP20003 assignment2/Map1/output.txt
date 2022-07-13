@@ -1,0 +1,10 @@
+144.959522 -37.800095 --> Census year: 2018 || Block ID: 240 || Property ID: 104466 || Base property ID: 104466 || CLUE small area: Carlton || Trading Name: The Bio 21 Cluster || Industry (ANZSIC4) code: 6910 || Industry (ANZSIC4) description: Scientific Research Services || x coordinate: 144.959281 || y coordinate: -37.800233 || Location: (-37.80023252, 144.9592806) ||
+
+144.959522 -37.800095 --> Census year: 2018 || Block ID: 240 || Property ID: 104466 || Base property ID: 104466 || CLUE small area: Carlton || Trading Name: Baretto Cafe || Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.959281 || y coordinate: -37.800233 || Location: (-37.80023252, 144.9592806) ||
+
+144.959522 -37.800095 --> Census year: 2018 || Block ID: 240 || Property ID: 104466 || Base property ID: 104466 || CLUE small area: Carlton || Trading Name: The Co-Op Bookstore || Industry (ANZSIC4) code: 4244 || Industry (ANZSIC4) description: Newspaper and Book Retailing || x coordinate: 144.959281 || y coordinate: -37.800233 || Location: (-37.80023252, 144.9592806) ||
+
+144.959522 -37.800095 --> Census year: 2018 || Block ID: 240 || Property ID: 104466 || Base property ID: 104466 || CLUE small area: Carlton || Trading Name: The University of Melbourne || Industry (ANZSIC4) code: 8102 || Industry (ANZSIC4) description: Higher Education || x coordinate: 144.959281 || y coordinate: -37.800233 || Location: (-37.80023252, 144.9592806) ||
+
+0 0 --> Census year: 2018 || Block ID: 571 || Property ID: 602254 || Base property ID: 602254 || CLUE small area: Kensington || Trading Name: Shine Australia || Industry (ANZSIC4) code: 5511 || Industry (ANZSIC4) description: Motion Picture and Video Production || x coordinate: 144.908147 || y coordinate: -37.785054 || Location: (-37.78505447, 144.9081466) ||
+

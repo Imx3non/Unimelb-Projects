@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8134bc92-aab6-495f-8a9a-d99c39daeaff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gatherer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gatherer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MitosisPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MitosisPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShadowLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShadowLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StockPile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StockPile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1io6Etma9l8VomHCzSu7AUkVEMy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ShadowLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="bagel" />
+      <option name="PROGRAM_PARAMETERS" value="0 1000 res/worlds/harvest.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShadowLife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8134bc92-aab6-495f-8a9a-d99c39daeaff" name="Default Changelist" comment="" />
+      <created>1602561492578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602561492578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1602755805480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1602755805480" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603439993582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603439993582" />
+    <state x="675" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1602935492480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="675" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602935492480" />
+    <state x="306" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602814189438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="306" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1602814189438" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602729822899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602729822899" />
+    <state x="336" y="22" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603343093355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="336" y="22" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1603343093355" />
+    <state x="549" y="130" key="FileChooserDialogImpl" timestamp="1602667998197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="130" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602667998197" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1603439971398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603439971398" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1603439971397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603439971397" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1603439971397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603439971397" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1603439971398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603439971398" />
+    <state width="1493" height="253" key="GridCell.Tab.1.bottom" timestamp="1602857882171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602857882171" />
+    <state width="1493" height="253" key="GridCell.Tab.1.center" timestamp="1602857882171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602857882171" />
+    <state width="1493" height="253" key="GridCell.Tab.1.left" timestamp="1602857882171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602857882171" />
+    <state width="1493" height="253" key="GridCell.Tab.1.right" timestamp="1602857882171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602857882171" />
+    <state x="285" y="66" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602753215791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="285" y="66" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1602753215791" />
+    <state x="360" y="0" key="new project wizard" timestamp="1603077973323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603077973323" />
+    <state x="471" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1602817560037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="150" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1602817560037" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603335144566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603335144566" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

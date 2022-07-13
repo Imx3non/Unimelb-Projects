@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efbb1122-d194-4034-9975-afac51a46042" name="Default Changelist" comment="Added equals methods">
+      <change beforePath="$PROJECT_DIR$/target/classes/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Gatherer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gatherer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShadowLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Trees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Trees.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hCuzDi4wDt8K7txzmVpoHYf3wO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="ShadowLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="rgokool-project-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShadowLife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efbb1122-d194-4034-9975-afac51a46042" name="Default Changelist" comment="" />
+      <created>1599527657672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599527657672</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added the trees in the background">
+      <created>1599534464369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599534464369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added gatherer and made it move with arrow keys">
+      <created>1599536058687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599536058687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the random gatherer movement logic.">
+      <created>1599537971923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599537971923</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Used System.currentTimeMillis() instead of System.sleep. Improved movement logic">
+      <created>1600339629501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600339629501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added equals methods">
+      <created>1600339948412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600339948412</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the trees in the background" />
+    <MESSAGE value="Added gatherer and made it move with arrow keys" />
+    <MESSAGE value="Added the random gatherer movement logic." />
+    <MESSAGE value="Used System.currentTimeMillis() instead of System.sleep. Improved movement logic" />
+    <MESSAGE value="Added equals methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added equals methods" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1600339201610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600339201610" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600425919744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600425919744" />
+    <state width="1478" height="258" key="GridCell.Tab.0.bottom" timestamp="1600425954434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600425954434" />
+    <state width="1478" height="258" key="GridCell.Tab.0.center" timestamp="1600425954434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600425954434" />
+    <state width="1478" height="258" key="GridCell.Tab.0.left" timestamp="1600425954434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600425954434" />
+    <state width="1478" height="258" key="GridCell.Tab.0.right" timestamp="1600425954434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600425954434" />
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1600425954435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600425954435" />
+    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1600425954435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600425954435" />
+    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1600425954435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600425954435" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1600425954435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600425954435" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600339954474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600339954474" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600339932610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600339932610" />
+    <state x="315" y="148" width="905" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600337915257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="315" y="148" width="905" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600337915257" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599534581151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599534581151" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

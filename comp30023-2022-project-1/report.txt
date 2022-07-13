@@ -1,0 +1,3 @@
+The algorithm goes through the list of process and allocate the same time slot to processes
+that have different files than the one that has been already added to the Current timeSlot 
+by comparing it with an array that holds the files added in the current timeSlot.
